@@ -12,9 +12,4 @@ public class HelloGit {
         return this.name;
     }
 
-    public static void main(String[] args) {
-        HelloGit h = new HelloGit("GIt");
-
-        System.out.println(h.toString());
-    }
 }
