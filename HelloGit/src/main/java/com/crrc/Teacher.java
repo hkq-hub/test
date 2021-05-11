@@ -22,6 +22,8 @@ public class Teacher {
 
         System.out.println("hello");
         System.out.println("update one");
+        System.out.println("update two");
+
 
     }
 }
